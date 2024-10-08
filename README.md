@@ -53,5 +53,5 @@ By using Context API:
 
 You can provide global state and functions to any part of your application without having to pass them as props at every level.
 This keeps your codebase clean and reduces unnecessary prop-passing, especially in larger projects with deep component hierarchies.
-License
+## License
 This project is licensed under the MIT License.
